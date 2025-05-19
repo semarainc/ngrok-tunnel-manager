@@ -2,15 +2,12 @@ APScheduler==3.11.0
 blinker==1.9.0
 click==8.2.0
 Flask==3.1.1
-flask-cors==6.0.0
-Flask-SQLAlchemy==3.1.1
 greenlet==3.2.2
 itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.2
 pyngrok==7.2.8
 PyYAML==6.0.2
-SQLAlchemy==2.0.41
 typing_extensions==4.13.2
 tzlocal==5.3.1
 Werkzeug==3.1.3
