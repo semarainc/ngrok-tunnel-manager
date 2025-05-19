@@ -22,8 +22,6 @@ Manage your Ngrok tunnels like a pro! 💻 A simple yet powerful web interface t
 ### 📋 Requirements
 - Python 3.12
 - Flask
-- Flask-CORS
-- SQLAlchemy
 - Pyngrok
 
 ### 🐳 Podman Installation
