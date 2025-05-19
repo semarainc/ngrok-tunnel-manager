@@ -10,7 +10,6 @@ from pyngrok import ngrok, conf
 import uuid
 import traceback
 import os
-import uuid
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = os.urandom(24)
